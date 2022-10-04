@@ -18,7 +18,7 @@
   "homepage": "https://github.com/jjgarcia1993/Employee-Tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^9.1.2",
+    "inquirer": "^8.2.4",
     "mysql": "^2.18.1",
     "node.js": "^0.0.1-security"
   }
